@@ -1,3 +1,4 @@
 FROM nginx:alpine
 
-COPY /articles /usr/share/nginx/html
+COPY index.html /usr/share/nginx/html
+COPY styles.css /usr/share/nginx/html
