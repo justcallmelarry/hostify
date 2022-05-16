@@ -1,0 +1,3 @@
+articles/*
+!articles/index.html
+!articles/styles.css
